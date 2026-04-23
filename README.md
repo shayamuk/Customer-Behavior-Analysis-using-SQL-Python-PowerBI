@@ -1,3 +1,5 @@
+# Customer Behavior Analysis Portfolio Project
+
 # 📖 Project Overview
 
 This project delivers an end to end data solution analyzing the purchasing patterns of 3,900 customers. The goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions. Using a hybrid approach, I developed a Python-based ETL pipeline to process and cleaned raw data, a MySQL database for deep-dive analytical querying, and a Power BI dashboard for executive reporting.
